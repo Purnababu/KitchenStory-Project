@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: aquamarine;
+    color: ;
+
+}
+.o{
+    text-align: center;
+    color: brown;
+}
+.p{
+    text-align: center;
+}
+.k{
+    background-color:rgba(170, 203, 172, 0.922)
+    
+}
+.n{
+    color: blue;
+    size: 10000px;
+}
+h1{
+    background-color: black;
+    text-align: center;
+    color: brown;
+}.b{
+    text-align: center;
+}.s{
+    background-color: cadetblue;
+}
