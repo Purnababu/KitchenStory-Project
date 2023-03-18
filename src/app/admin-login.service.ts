@@ -8,7 +8,7 @@ import { Admin } from '../Components/changepassword/admin';
 })
 export class LoginService {
 
-  url = "http://localhost:9595"
+  url = "http://localhost:8080"
 
   constructor(private http: HttpClient) { }
 
